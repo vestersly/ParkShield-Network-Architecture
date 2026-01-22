@@ -11,6 +11,11 @@ The project modernizes a legacy flat network into a **secure, segmented, and sca
 The design explicitly governs both **East–West** (internal lateral) and **North–South** (edge and remote) traffic flows, aligning with enterprise and hybrid-network security principles.
 
 ---
+## Network Topology
+
+![ParkShield Network Topology](topology.png)
+
+*High-level logical topology illustrating the Core-Access design, VLAN segmentation, DMZ isolation, and remote access boundary.*
 
 ## Security Architecture (Defense in Depth)
 
