@@ -13,7 +13,8 @@ The design explicitly governs both **East–West** (internal lateral) and **Nort
 ---
 ## Network Topology
 
-![ParkShield Network Topology](topology.png)
+![ParkShield Network Topology](./topology.png)
+
 
 *High-level logical topology illustrating the Core-Access design, VLAN segmentation, DMZ isolation, and remote access boundary.*
 
