@@ -1,2 +1,1 @@
-# ParkShield-Network-Architecture
-Secure, Segmented Campus Network Architecture featuring a DMZ-first policy and Layer 3 ACL enforcement.
+#"Enterprise-grade Campus Network Architecture featuring L3 Inter-VLAN routing, DMZ segmentation, and Defense-in-Depth security via Extended ACLs."
